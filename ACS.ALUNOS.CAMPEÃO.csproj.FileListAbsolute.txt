@@ -1,0 +1,10 @@
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\bin\Debug\ACS.ALUNOS.CAMPEÃO.exe.config
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\bin\Debug\ACS.ALUNOS.CAMPEÃO.exe
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\bin\Debug\ACS.ALUNOS.CAMPEÃO.pdb
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.csprojAssemblyReference.cache
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.Form1.resources
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.Properties.Resources.resources
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.csproj.GenerateResource.cache
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.csproj.CoreCompileInputs.cache
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.exe
+C:\Users\Rosinei\source\repos\ACS.ALUNOS.CAMPEÃO\ACS.ALUNOS.CAMPEÃO\obj\Debug\ACS.ALUNOS.CAMPEÃO.pdb
